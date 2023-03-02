@@ -1,3 +1,0 @@
-# friendly-spoon
-feature
-main
